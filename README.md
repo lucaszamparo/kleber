@@ -1,5 +1,6 @@
 Lucas com L
 
-Olá Lucas, tudo bem?
+Olá equipe,
 
 
+Estamos com esse projeto, para aprender a usar o GitHub.
